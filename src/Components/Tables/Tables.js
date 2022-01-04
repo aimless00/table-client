@@ -14,7 +14,7 @@ const Tables = () => {
 
     useEffect(() => {
         setLoading(true);
-        fetch('http://localhost:5000/data')
+        fetch('https://whispering-savannah-60706.herokuapp.com/tablesData')
             .then(res => res.json())
             .then(result => setData(result))
         setLoading(false);

@@ -1,0 +1,17 @@
+.icon{
+    font-size: 150px;
+    margin: auto;
+    color: red;
+}
+.message1{
+    font-size: 30px;
+    margin: auto;
+    font-weight: 600;
+    color: gray;
+}
+.message2{
+    font-size: 15px;
+    margin: auto;
+    font-weight: 600;
+    color: gray;
+}
